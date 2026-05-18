@@ -2,7 +2,7 @@
 
 Mod script untuk GTA V yang menambahkan tantangan perjalanan menuju target koordinat (dari koordinat awal ke tujuan akhir). Script ini memiliki beberapa fitur utama seperti *Progress Bar*, *Health Bar*, *Countdown* untuk garis finis, dan sistem *Win Counter*.
 
-## Fitur-Fitur (Versi 1.0.7)
+## Fitur-Fitur (Versi 1.0.8)
 *   **Target Perjalanan**: Mencapai jarak tertentu (Airport ke Mountain) dengan indikator persentase dan sisa jarak (meter).
 *   **Progress & Health Bar**: UI yang menarik untuk menampilkan progres perjalanan dan darah (Health) pemain secara langsung di layar.
 *   **Configurable Win & Countdown**: Saat mencapai jarak `< 30 meter`, sistem akan memulai hitungan mundur (Countdown) sebelum mencetak *Win*. Durasi countdown dan jumlah kemenangan dapat dikonfigurasi melalui file `.ini`.
