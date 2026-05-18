@@ -32,6 +32,8 @@ WinCount=0
 *   `WinCount`: Jumlah seberapa banyak kamu memenangkan tantangan ini (dapat diedit secara manual).
 *   `DeathText`: Ubah kata-kata ketika pemain mati.
 
+> **⚠️ PERINGATAN PENTING**: Jangan pernah mengubah atau menghapus isi dari `Alias` dan `HID`! Kedua parameter tersebut merupakan identitas unik yang terikat dengan lisensi PC/perangkatmu. Apabila nilainya diubah, script akan mendeteksinya sebagai tindakan curang (cheating) dan sistem mod akan otomatis diblokir.
+
 ## Catatan Tambahan
 *   Saat update ke versi terbaru pastikan kamu men-delete file `.old` atau `.new` yang tertinggal jika sebelumnya kamu menggunakan sistem *auto-update*.
 *   Mod ini terkoneksi dengan internet untuk sistem pengecekan lisensinya.
