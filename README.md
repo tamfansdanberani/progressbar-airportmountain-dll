@@ -2,13 +2,19 @@
 
 Mod script untuk GTA V yang menambahkan tantangan perjalanan menuju target koordinat (dari koordinat awal ke tujuan akhir). Script ini memiliki beberapa fitur utama seperti *Progress Bar*, *Health Bar*, *Countdown* untuk garis finis, dan sistem *Win Counter*.
 
-## Fitur-Fitur (Versi 1.0.7)
+## Fitur-Fitur (Versi 1.0.8)
 *   **Target Perjalanan**: Mencapai jarak tertentu (Airport ke Mountain) dengan indikator persentase dan sisa jarak (meter).
 *   **Progress & Health Bar**: UI yang menarik untuk menampilkan progres perjalanan dan darah (Health) pemain secara langsung di layar.
 *   **Configurable Win & Countdown**: Saat mencapai jarak `< 30 meter`, sistem akan memulai hitungan mundur (Countdown) sebelum mencetak *Win*. Durasi countdown dan jumlah kemenangan dapat dikonfigurasi melalui file `.ini`.
 *   **Dynamic Win Teks**: Menampilkan tulisan "WIN" dengan desain dinamis di tengah layar (menggunakan *font* Pricedown GTA) beserta perayaan kembang api (Fireworks).
 *   **Death Overlay (Wasted)**: Teks kematian "YAAHH TURU DEK!!!" jika pemain tewas di tengah perjalanan.
 *   **Sistem Lisensi**: Hanya untuk pengguna terdaftar dengan sistem validasi *Hardware ID (HWID)*.
+
+## Persyaratan Sistem (Requirements)
+Sebelum menginstal mod ini, pastikan PC/Windows Anda sudah terinstal komponen berikut (wajib untuk ScriptHook):
+*   **Microsoft .NET Framework 4.8** (atau versi yang lebih baru).
+*   **Microsoft Visual C++ Redistributable 2013 (x64)**.
+*   **Microsoft Visual C++ Redistributable 2015-2022 (x64)**.
 
 ## Cara Pemasangan (Instalasi)
 1. Pastikan kamu sudah menginstal **ScriptHookV** dan **ScriptHookVDotNet3** di GTA V kamu.
